@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Python backups
+*.bak
+*.swp
+*.swo
+
+# Jupyter notebook checkpoints (if used)
+.ipynb_checkpoints/
